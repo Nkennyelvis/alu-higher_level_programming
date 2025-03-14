@@ -1,2 +1,2 @@
---display number of records in a table
-SELECT COUNT(*) FROM first_table WHERE id = 89;
+-- counting the rows with the given ids
+SELECT COUNT(*) FROM first_table WHERE id=89;
