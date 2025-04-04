@@ -2,7 +2,7 @@
 """Documented"""
 
 
-import urllib.request
+from urllib import request
 
 
 if __name__ == "__main__":
